@@ -1,0 +1,30 @@
+[
+    {
+        "id": 101,
+        "name": "  pavan ",
+        "department": "Data Engineering",
+        "salary": 65000,
+        "city": " hyderabad "
+    },
+    {
+        "id": 102,
+        "name": "RAHUL",
+        "department": "Analytics",
+        "salary": 52000,
+        "city": "DELHI"
+    },
+    {
+        "id": 103,
+        "name": " sneha ",
+        "department": "HR",
+        "salary": 47000,
+        "city": "chennai"
+    },
+    {
+        "id": 104,
+        "name": "KIRAN",
+        "department": "Engineering",
+        "salary": 60000,
+        "city": " Bangalore "
+    }
+]
